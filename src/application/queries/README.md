@@ -1,0 +1,2 @@
+## 概要
+ここにはcontrollerで受けるqueryparamのmodel定義を配置します
